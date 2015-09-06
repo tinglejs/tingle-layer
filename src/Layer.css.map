@@ -1,1 +1,1 @@
-{"version":3,"sources":[],"names":[],"mappings":"","file":"Layer.css","sourcesContent":[],"sourceRoot":"/source/"}
+{"version":3,"sources":["Layer.styl"],"names":[],"mappings":"AAAA;;;;;;;AAOA;EACE,UAAS,MAAT","file":"Layer.css","sourcesContent":["/**\n * Layer Component Style for tingle\n * @author gnosaij\n *\n * Copyright 2014-2015, Tingle Team, Alinw.\n * All rights reserved.\n */\n.tLayer\n  position fixed"],"sourceRoot":"/source/"}
