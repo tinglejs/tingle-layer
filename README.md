@@ -17,20 +17,6 @@
 |mask|optional|true| 是有遮罩层 |
 |show|optional|false| 是否直接展示|
 
-## API接口
-
-### .loading()
-
-加载锁，防止重复触发 `onLoadMore` 事件。
-
-### .loaded()
-
-加载完成时调用的函数。
-
-### .noMore()
-
-没有更多了。
-
 ## Links 相关链接
 
-- [Fire a bug/Issues 提Bug](http://github.com/tinglejs/tingle-load-more/issues)
+- [Fire a bug/Issues 提Bug](http://github.com/tinglejs/tingle-layer/issues)

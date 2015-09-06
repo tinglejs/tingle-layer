@@ -34,5 +34,6 @@
   "scripts": {
     "start": "gulp d"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "screenshots":""
 }
