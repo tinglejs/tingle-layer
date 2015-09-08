@@ -5,7 +5,7 @@ module.exports = {
         demo: './demo/index'
     },
     output: {
-        path: './dist', 
+        path: './dist',
         filename: "[name].js",
         sourceMapFilename: "[name].js.map"
     },
