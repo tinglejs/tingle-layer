@@ -1,11 +1,11 @@
 {
   "name": "tingle-layer",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Layer Component for tingle",
   "repository": "https://github.com/tinglejs/tingle-layer.git",
   "author": {
     "name": "gnosaij",
-    "email": ""
+    "email": "gnosaij@yeah.net"
   },
   "maintainers":[
     "yize <yize.shc@gmail.com>"
@@ -23,8 +23,8 @@
   "dependencies": {
     "classnames": "^2.1.2",
     "tingle-context": "~0.1.0",
-    "tingle-style": "~0.1.0",
-    "tingle-mask": "~0.1.0"
+    "tingle-style": "~0.2.0",
+    "tingle-mask": "~0.2.0"
   },
   "devDependencies": {
     "babel-core": "^5.8.19",
@@ -37,6 +37,5 @@
   "scripts": {
     "start": "gulp d"
   },
-  "license": "MIT",
-  "screenshots":""
+  "license": "MIT"
 }

@@ -126,12 +126,12 @@ Layer.propTypes = {
 
 Layer._zIndex = 1000;
 
-Layer._getIndex = () => {
+Layer._getIndex = function () {
     Layer._zIndex += 2;
     return Layer._zIndex;
 };
 
-Layer._setIndex = () => {
+Layer._setIndex = function () {
     Layer._zIndex -= 2;
 };
 
