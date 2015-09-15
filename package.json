@@ -1,7 +1,7 @@
 {
   "name": "tingle-layer",
   "version": "0.2.0",
-  "description": "Layer Component for tingle",
+  "description": "简单易用的定位控件。",
   "repository": "https://github.com/tinglejs/tingle-layer.git",
   "author": {
     "name": "gnosaij",
@@ -18,7 +18,8 @@
   "keywords": [
     "tingle-layer",
     "layer",
-    "pop"
+    "pop",
+    "position"
   ],
   "dependencies": {
     "classnames": "^2.1.2",
